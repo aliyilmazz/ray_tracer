@@ -1,1 +1,7 @@
-Sample raytracer
+Sample raytracer.
+
+Usage:
+
+`make`
+
+`./raytracer`
