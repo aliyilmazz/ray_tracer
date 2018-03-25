@@ -2,6 +2,9 @@ Sample raytracer.
 
 Usage:
 
-`make`
+```
+make
+./raytracer <file>
+```
 
-`./raytracer`
+Example input files can be found inside `examples` folder.
